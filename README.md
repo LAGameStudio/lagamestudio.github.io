@@ -62,7 +62,8 @@ The required skill is that you should understand how to create JSON by following
 ```
 
 * When making a pull request, place at the top of the file after the first comment, inside the array, and make sure to include the trailing comma.
-* All fields are required. 
+* All fields are required.
+* The "date" field is in the format DD-MM-YYYY
 * Under "kind", for the main post, it can be "company", "game", "tool" (for indie dev tool makers) or "source" (for open source releases)
 *  Under "links", you are not required to have all of the ones listed.   Current supported social media types are: "discord", "steam", "itch", "facebook", "gog", "github", "twitter", "twitch" and "instagram"
 * Content "paragraph" should be a single line of text in quotes.  You may use basic HTML only; only the "B" and "I" tags to bold and italicize.
