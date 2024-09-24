@@ -1,6 +1,6 @@
 # [[https://indiedev.space|indiedev.space]]
 
-Not sure why you are here?  Maybe visit the [[https://indiedev.space/|website]] first.
+Not sure why you are here?  Maybe visit the [[https://indiedev.space/ website]] first.
 
 Home of the IndieDev.space Independent Developer Space, a place for free marketing for indie games, and where indie game developers can gather with a community of other indie game developers, and where indie game players can come to explore what's out there in the independent gaming space.  We mean truly independent developers.  Generally, we do not consider mid-sized software companies to be "indie" but there are always exceptions.  This place was created for the "little ones" of the indie space.
 
