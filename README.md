@@ -1,6 +1,6 @@
-# [[https://indiedev.space|indiedev.space]]
+# [indiedev.space](https://indiedev.space)
 
-Not sure why you are here?  Maybe visit the [[https://indiedev.space/ website]] first.
+Not sure why you are here?  Maybe visit the  [website](https://indiedev.space/) first.
 
 Home of the IndieDev.space Independent Developer Space, a place for free marketing for indie games, and where indie game developers can gather with a community of other indie game developers, and where indie game players can come to explore what's out there in the independent gaming space.  We mean truly independent developers.  Generally, we do not consider mid-sized software companies to be "indie" but there are always exceptions.  This place was created for the "little ones" of the indie space.
 
@@ -10,12 +10,11 @@ IndieDev.space provides a place for small time developers to be discovered by ea
 
 Alternatively to creating a pull request (recommended and preferred), you can fill out the Google Intake Form, though it may cause a brief delay.  It also requires you to have a verified email to upload your required image file.  It's ok to use this, it's just not as easy for us to approve.
 
-The alternate Google Intake Form for IndieDev.space is here:
-https://docs.google.com/forms/d/e/1FAIpQLSfvpeEIMIuZLacTq4gUBMSEiijRkqpXAExWKJ-KEXmvvMay6Q/viewform?usp=sf_link
+The alternate Google Intake Form for IndieDev.space is [right here](https://docs.google.com/forms/d/e/1FAIpQLSfvpeEIMIuZLacTq4gUBMSEiijRkqpXAExWKJ-KEXmvvMay6Q/viewform?usp=sf_link)
 
 ## Are you an indie developer?
 
-To add yourself to the Indie Dev Space, so you can market your existence, and get a link back to your website, you must create a Pull Request, adding an entry to ``data.js``, that contains at least an image and some text.  You can see the [[https://github.com/LAGameStudio/lagamestudio.github.io/wiki|Wiki]] for other options you can add to the JSON.
+To add yourself to the Indie Dev Space, so you can market your existence, and get a link back to your website, you must create a Pull Request, adding an entry to ``data.js``, that contains at least an image and some text.  You can see the [Wiki](https://github.com/LAGameStudio/lagamestudio.github.io/wiki) for other options you can add to the JSON.
 
 Generally entries in ``data.js`` are to games or to game developers.
 
@@ -30,7 +29,7 @@ Your pull request will be merged if:
 * Your submission must contain a title and paragraph in English, but may also be translated to one or more other languages optionally.  Language is detected by the browser, but defaults to English.
 * Your submission should include the current date.
 * Your submission should include your location as originating country, and, optionally, city/state/province or other identifying information, but not your real name, address or telephone number.
-* If this is your first pull request, the user account on github will become our primary way to validate changes in the future as an origination point.  You should include your Discord username (for the one on the Discord) If something changes, let us know by contacting us in [[https://github.com/LAGameStudio/lagamestudio.github.io/issues|Issues]] here on this github.
+* If this is your first pull request, the user account on github will become our primary way to validate changes in the future as an origination point.  You should include your Discord username (for the one on the Discord) If something changes, let us know by contacting us in [Issues](https://github.com/LAGameStudio/lagamestudio.github.io/issues) here on this github.
 
 The only other kind of pull request we entertain are corrections or revisions.
 
