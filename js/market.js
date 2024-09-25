@@ -1,4 +1,4 @@
-function SocialCSS( type ) {
+function SocialCSS( kind ) {
   if ( kind == "facebook" ) return '<i class="fa fa-facebook" aria-hidden="true"></i>';
   else if ( kind == "twitter" ) return '<i class="fa fa-twitter" aria-hidden="true"></i>';
   else if ( kind == "linkedin" ) return '<i class="fa fa-linkedin-square" aria-hidden="true"></i>';
@@ -13,7 +13,7 @@ function SocialCSS( type ) {
 function SocialLI( links ) {
   var done="";
             links.forEach((e)=>{
-               done+='<li><a href="'+e.url+'">'+SocialCSS(e.type)+'</a></li>';
+               done+='<li><a href="'+e.url+'">'+SocialCSS(e.kind)+'</a></li>';
             });
   return done;
 }
@@ -24,7 +24,7 @@ function LeftImage( e ) {
               +'</div>'
               +'<div class="col-md-6"><div class="titlepage">'
               +'<h2><span class="blu"></span><a href="'+e.linkback+'">'+e.title+'</a></h2>'
-              +'<p>'+paragraph+'</p>'
+              +'<p>'+e.paragraph+'</p>'
               +'<a class="read_more" href="'+e.linkback+'">Go &rarr;</a>'
               +'<div class="col-sm-col-xl-6 col-lg-6 col-md-6 col-sm-12"><ul class="social_icon">'
               +SocialCSS(e.links)
