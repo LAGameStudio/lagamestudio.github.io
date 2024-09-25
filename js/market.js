@@ -2,11 +2,11 @@ function SocialCSS( kind ) {
   if ( kind == "facebook" ) return '<i class="fa fa-facebook" aria-hidden="true"></i>';
   else if ( kind == "twitter" ) return '<i class="fa fa-twitter" aria-hidden="true"></i>';
   else if ( kind == "linkedin" ) return '<i class="fa fa-linkedin-square" aria-hidden="true"></i>';
-  else if ( kind == "instagram" ) return '<i class="fa fa-instagram" aria-hidden="true"></i>';
-  else if ( kind == "github" ) return '<i class="fa fa-github" aria-hidden="true"></i>';
-  else if ( kind == "steam" ) return 'on Steam';
-  else if ( kind == "itch" ) return 'on Itch.io';            
-  else if ( kind == "twitch" ) return '<i class="fa fa-twitch" aria-hidden="true"></i>';
+  else if ( kind == "instagram" ) return '<i class="fa-brands fa-instagram" aria-hidden="true"></i>';
+  else if ( kind == "github" ) return '<i class="fa-brands fa-github" aria-hidden="true"></i>';
+  else if ( kind == "steam" ) return '<i class="fa-brands fa-steam" aria-hidden="true"></i>';
+  else if ( kind == "itch" ) return '<i class="fa-brands fa-itch-io" aria-hidden="true"></i>';
+  else if ( kind == "twitch" ) return '<i class="fa-brands fa-twitch" aria-hidden="true"></i>';
   return kind;
 }
 
