@@ -70,4 +70,4 @@ The required skill is that you should understand how to create JSON by following
 
 ## Support
 
-Use the [https://github.com/LAGameStudio/lagamestudio.github.io/issues|Issues] section to report anything, make a suggestion or ask for help.  You can also locate us on the Discord, but we will most likely direct you here if you have issues with the website.
+Use the [Issues](https://github.com/LAGameStudio/lagamestudio.github.io/issues) section to report anything, make a suggestion or ask for help.  You can also locate us on the Discord, but we will most likely direct you here if you have issues with the website.
