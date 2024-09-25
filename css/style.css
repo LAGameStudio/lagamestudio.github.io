@@ -463,7 +463,8 @@ ul.btn li:last-child {
 /*--------------------------------------------------------------------- layout new css ---------------------------------------------------------------------*/
 
 .header_full_banner {
-     background: url(../images/sevem.gif);
+     background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+                       rgba(0, 0, 0, 0.5)), url(../images/sevem.gif))
      background-repeat: no-repeat;
      min-height: 700px;
      background-size: 100% 100%;
