@@ -14,6 +14,8 @@ The alternate Google Intake Form for IndieDev.space is [right here](https://docs
 
 ## Are you an indie developer?
 
+Before embarking on the process on this github, you should first visit us on the IndieDEV.space Discord and apply to be a Development Member.  We will then direct you here.  If you are already a member, then you may proceed.
+
 To add yourself to the Indie Dev Space, so you can market your existence, and get a link back to your website, you must create a Pull Request, adding an entry to ``data.js``, that contains at least an image and some text.  You can see the [Wiki](https://github.com/LAGameStudio/lagamestudio.github.io/wiki) for other options you can add to the JSON.
 
 Generally entries in ``data.js`` are to games or to game developers.
