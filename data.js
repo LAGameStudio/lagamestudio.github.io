@@ -19,7 +19,7 @@ let indiedevs = [
  { 
    kind: "game",
    title: "Apolune 2",
-   image: "images/LALogo.png",   
+   image: "images/Apolune2.png",   
    date: "9-24-2024",
    location: "United States",
    channel: "#lost-astronaut",
@@ -34,7 +34,7 @@ let indiedevs = [
  { 
    kind: "company",
    title: "Lost Astronaut Studios",
-   image: "images/LALogo.png",   
+   image: "images/LostAstronaut_2021Logo-75p-75p.png",   
    date: "9-24-2024",
    location: "United States",
    channel: "#lost-astronaut",
