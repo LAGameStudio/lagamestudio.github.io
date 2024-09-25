@@ -7,6 +7,7 @@ function SocialCSS( kind ) {
   else if ( kind == "steam" ) return '<i class="fa-brands fa-steam" aria-hidden="true"></i>';
   else if ( kind == "itch" ) return '<i class="fa-brands fa-itch-io" aria-hidden="true"></i>';
   else if ( kind == "twitch" ) return '<i class="fa-brands fa-twitch" aria-hidden="true"></i>';
+  else if ( kind == "discord" ) return '<i class="fa-brands fa-discord" aria-hidden="true"></i>';
   return kind;
 }
 
