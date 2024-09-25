@@ -46,6 +46,7 @@ The required skill is that you should understand how to create JSON by following
    title: "Lost Astronaut Studios",
    image: "images/LALogo.png",
    date: "9-24-2024",
+   location: "United States",
    channel: "#lost-astronaut",
    linkback: "https://lostastronaut.com", 
    links: [
