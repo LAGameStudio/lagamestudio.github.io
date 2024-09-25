@@ -23,7 +23,7 @@ function LeftImage( e ) {
               +'<div class="about_img"><figure><img src="'+e.image+'" alt="#"/></figure></div>'
               +'</div>'
               +'<div class="col-md-6"><div class="titlepage">'
-              +'<h2><span class="blu"></span><a href="'+e.linkback+">'+e.title+'</a></h2>'
+              +'<h2><span class="blu"></span><a href="'+e.linkback+'">'+e.title+'</a></h2>'
               +'<p>'+paragraph+'</p>'
               +'<a class="read_more" href="'+e.linkback+'">Go &rarr;</a>'
               +'<div class="col-sm-col-xl-6 col-lg-6 col-md-6 col-sm-12"><ul class="social_icon">'
