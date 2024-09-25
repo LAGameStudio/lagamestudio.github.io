@@ -8,7 +8,7 @@ let indiedevs = [
    image: "images/InputCandyTeaser.png",   
    date: "9-25-2024",
    location: "United States",
-   channel: "#lost-astronaut".
+   channel: "#lost-astronaut",
    linkback: "https://github.com/LAGameStudio/InputCandy", 
    links: [
      { kind: "discord", url: "https://discord.gg/9vkNPJr" },
@@ -22,7 +22,7 @@ let indiedevs = [
    image: "images/LALogo.png",   
    date: "9-24-2024",
    location: "United States",
-   channel: "#lost-astronaut".
+   channel: "#lost-astronaut",
    linkback: "https://lostastronaut.com/apolune2", 
    links: [
      { kind: "discord", url: "https://discord.gg/9vkNPJr" },
@@ -37,7 +37,7 @@ let indiedevs = [
    image: "images/LALogo.png",   
    date: "9-24-2024",
    location: "United States",
-   channel: "#lost-astronaut".
+   channel: "#lost-astronaut",
    linkback: "https://lostastronaut.com", 
    links: [
      { kind: "discord", url: "https://discord.gg/9vkNPJr" },
