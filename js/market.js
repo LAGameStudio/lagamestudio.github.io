@@ -27,7 +27,7 @@ function LeftImage( e ) {
               +'<p>'+e.paragraph+'</p>'
               +'<a class="read_more" href="'+e.linkback+'">Go &rarr;</a>'
               +'<div class="col-sm-col-xl-6 col-lg-6 col-md-6 col-sm-12"><ul class="social_icon">'
-              +SocialCSS(e.links)
+              +SocialLI(e.links)
               +'</ul></div></div></div></div>';
 }
 
