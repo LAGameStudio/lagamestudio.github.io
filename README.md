@@ -23,7 +23,7 @@ Your pull request will be merged if:
 * You have at least 1 title published on at least one platform.  Qualifying platforms are:  GoG, Steam, Itch, Switch, Atari VCS Store, and perhaps others.
 * Your pull request fits within the guidelines for decency and appropriateness.  Basically, it's a game or press or game company linkback, and it does not contain obscene words.  The link is validated manually, and your descriptive content matches our content style.
 * You are already a member of our Discord and have a Discord Featured Channel dedicated to you.  See the Discord for how to obtain this. Your submission must  include your featured Discord channel as a tag, so your posts can be grouped.
-* Your entry is not determined to be redundant.  You may post once and one time only for your company, and once and one time only for each game.
+* Your entry is not determined to be redundant.  You may post once and one time only for your company, and once and one time only for each game.  If you have too many games listed, a new game listing should replace an older game listing.  You may link to a franchise or series of games as a game listing.
 * Your submission must include a web optimized image no bigger than 15mb and it must have a unique name and appear in the images/ folder.
 * Your submission must link to your game or your website, only.  No URL shorteners are permitted.  "Your website" can be a linke to a profile on a major platform like Steam or Itch, or your X.com (Twitter) profile, or your IG (Instagram) profile, etc.
 * Your submission must contain a title and paragraph in English, but may also be translated to one or more other languages optionally.  Language is detected by the browser, but defaults to English.
