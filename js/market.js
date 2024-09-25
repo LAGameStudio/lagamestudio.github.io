@@ -52,10 +52,10 @@ function IndieDevSpace() {
              toollist_html="";
 
 indiedevs.forEach((e)=> {
-  if ( e.type == "company" ) {
+  if ( e.kind == "company" ) {
               myCarouselInner_html += CarouselSetup(e);
               myCarouselIndicators_html += CarouselIndicator(e);
-  } if ( e.type == "game" ) {
+  } if ( e.kind == "game" ) {
               gamelist_html += LeftImage(e);
   } else { // tools and open source
               toollist_html += LeftImage(e);
