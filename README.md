@@ -35,7 +35,7 @@ Your pull request will be merged if:
 
 The only other kind of pull request we entertain are corrections or revisions.
 
-We reserve the right to reject or remove entries at any time for any reason.  Most of the time is due to dead links or malware.
+We reserve the right to reject or remove entries at any time for any reason.  Most of the time is due to link rot.
 
 ## JSON Template
 
