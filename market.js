@@ -25,8 +25,8 @@ function LeftImage( e ) {
               +'<div class="about_img"><figure><img src="'+e.image+'" alt="#"/></figure></div>'
               +'</div>'
               +'<div class="col-md-6"><div class="titlepage">'
-              +'<h2><span class="blu"></span><a target="_blank" href="'+e.linkback+'">'+e.title+'</a></h2><h4>'+e.channel+'</h4>'
-              +'<p>'+e.paragraph+'</p><h3>' + e.date + ' ~ '+ e.location + '</h3>'
+              +'<h2><span class="blu"></span><a target="_blank" href="'+e.linkback+'">'+e.title+'</a></h2><h4>'+e.channel + ' on '+e.date + ' from '+ e.location + '</h4>'
+              +'<p>'+e.paragraph+'</p>'
               +'<a class="read_more" target="_blank" href="'+e.linkback+'">Go &rarr;</a>'
               +'<div class="col-sm-col-xl-6 col-lg-6 col-md-6 col-sm-12"><ul class="social_icon">'
               +SocialLI(e.links)
@@ -86,4 +86,6 @@ indiedevs.forEach((e)=> {
 
  gamelist.innerHTML=gamelist_html;
  toollist.innerHTML=toollist_html;
+ myCarouselIndicators.innerHTML=myCarouselIndicators_html;
+ myCarouselInner.innerHtml=myCarouselInner_html;
 }
