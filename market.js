@@ -43,7 +43,7 @@ function CarouselSetup( e ) {
   }
   return done+
     '<div class="container"><div class="carousel-caption "><div class="row"><div class="col-md-12 margin_boot"><div class="test_box">'
-    +'<i><a href="'+e.linkback+'" target="_blank"><img src="'+e.image+" alt="#"/></a></i>'
+    +'<i><a href="'+e.linkback+'" target="_blank"><img src="'+e.image+'" alt="#"/></a></i>'
     +'<h4>'+e.title+'</h4>'
     +'<p>'+e.paragraph+'</p>'
     +'</div></div></div></div></div>'
@@ -56,7 +56,7 @@ function CarouselIndicator( e ) {
     return "<li data-target="#myCarousel" data-slide-to="0" class="active"></li>";
   } else {
     carouselCounter++;
-    return "<li data-target="#myCarousel" data-slide-to="'+(carouselCounter-1)+"></li>";
+    return '<li data-target="#myCarousel" data-slide-to="'+(carouselCounter-1)+'"></li>';
   }
 }
 
