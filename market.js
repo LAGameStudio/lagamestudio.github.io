@@ -25,7 +25,7 @@ function LeftImage( e ) {
               +'<div class="about_img"><figure><img src="'+e.image+'" alt="#"/></figure></div>'
               +'</div>'
               +'<div class="col-md-6"><div class="titlepage">'
-              +'<h2><span class="blu"></span><a target="_blank" href="'+e.linkback+'">'+e.title+'</a></h2>'
+              +'<h2><span class="blu"></span><a target="_blank" href="'+e.linkback+'">'+e.title+'</a></h2><h4>'+e.channel+'</h4>'
               +'<p>'+e.paragraph+'</p><h3>' + e.date + ' ~ '+ e.location + '</h3>'
               +'<a class="read_more" target="_blank" href="'+e.linkback+'">Go &rarr;</a>'
               +'<div class="col-sm-col-xl-6 col-lg-6 col-md-6 col-sm-12"><ul class="social_icon">'
@@ -44,6 +44,7 @@ function CarouselSetup( e ) {
   return done+
     '<div class="container"><div class="carousel-caption "><div class="row"><div class="col-md-12 margin_boot"><div class="test_box">'
     +'<i><a href="'+e.linkback+'" target="_blank"><img src="'+e.image+'" alt="#"/></a></i>'
+    +'<span>'+e.channel+'</span>'
     +'<h4>'+e.title+'</h4>'
     +'<p>'+e.paragraph+'</p>'
     +'</div></div></div></div></div>'
