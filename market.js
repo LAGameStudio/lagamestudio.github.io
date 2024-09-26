@@ -48,6 +48,7 @@ function CarouselSetup( e ) {
     +'<h4>'+e.title+'</h4>'
     +'<p>'+e.paragraph+'</p>'
     +'</div></div></div></div></div>'
+    +'</div>'
   ;
 }
 
