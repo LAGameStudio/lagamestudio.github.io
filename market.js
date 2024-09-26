@@ -54,7 +54,7 @@ function CarouselSetup( e ) {
 function CarouselIndicator( e ) {
   if ( carouselCounter==0 ) {
     carouselCounter++;
-    return "<li data-target="#myCarousel" data-slide-to="0" class="active"></li>";
+    return '<li data-target="#myCarousel" data-slide-to="0" class="active"></li>';
   } else {
     carouselCounter++;
     return '<li data-target="#myCarousel" data-slide-to="'+(carouselCounter-1)+'"></li>';
