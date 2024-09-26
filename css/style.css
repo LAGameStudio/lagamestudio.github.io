@@ -980,10 +980,12 @@ ul.social_icon li a:hover {
 
 
 .caroimage {
-     min-width: 400px;
-    max-width: 400px;
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 400px;
     max-height: 400px;
     height: auto;
+    object-fit: contain;
 }
 
 /** end footer **/
