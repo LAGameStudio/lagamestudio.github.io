@@ -15,7 +15,7 @@ function SocialCSS( kind ) {
 function SocialLI( links ) {
   var done="";
             links.forEach((e)=>{
-               done+='<li><a href="'+e.url+'">'+SocialCSS(e.kind)+'</a></li>';
+               done+='<li><a target="_blank" href="'+e.url+'">'+SocialCSS(e.kind)+'</a></li>';
             });
   return done;
 }
@@ -25,20 +25,39 @@ function LeftImage( e ) {
               +'<div class="about_img"><figure><img src="'+e.image+'" alt="#"/></figure></div>'
               +'</div>'
               +'<div class="col-md-6"><div class="titlepage">'
-              +'<h2><span class="blu"></span><a href="'+e.linkback+'">'+e.title+'</a></h2>'
-              +'<p>'+e.paragraph+'</p>'
-              +'<a class="read_more" href="'+e.linkback+'">Go &rarr;</a>'
+              +'<h2><span class="blu"></span><a target="_blank" href="'+e.linkback+'">'+e.title+'</a></h2>'
+              +'<p>'+e.paragraph+'</p><h3>' + e.date + ' ~ '+ e.location + '</h3>'
+              +'<a class="read_more" target="_blank" href="'+e.linkback+'">Go &rarr;</a>'
               +'<div class="col-sm-col-xl-6 col-lg-6 col-md-6 col-sm-12"><ul class="social_icon">'
               +SocialLI(e.links)
               +'</ul></div></div></div></div>';
 }
 
+
+let carouselCounter=0;
+
 function CarouselSetup( e ) {
-            return "";
+  var done='<div class="carousel-item active">';
+  if ( carouselCounter > 0 ) {
+    done='<div class="carousel-item">';
+  }
+  return done+
+    '<div class="container"><div class="carousel-caption "><div class="row"><div class="col-md-12 margin_boot"><div class="test_box">'
+    +'<i><a href="'+e.linkback+'" target="_blank"><img src="'+e.image+" alt="#"/></a></i>'
+    +'<h4>'+e.title+'</h4>'
+    +'<p>'+e.paragraph+'</p>'
+    +'</div></div></div></div></div>'
+  ;
 }
 
 function CarouselIndicator( e ) {
-            return "";
+  if ( carouselCounter==0 ) {
+    carouselCounter++;
+    return "<li data-target="#myCarousel" data-slide-to="0" class="active"></li>";
+  } else {
+    carouselCounter++;
+    return "<li data-target="#myCarousel" data-slide-to="'+(carouselCounter-1)+"></li>";
+  }
 }
 
 function IndieDevSpace() {
