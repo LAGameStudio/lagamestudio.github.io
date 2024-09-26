@@ -1,3 +1,10 @@
+function Durstenfeld(array) {
+    for (let i = array.length - 1; i >= 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+}
+
 function SocialCSS( kind ) {
   if ( kind == "facebook" ) return '<i class="fa fa-facebook" aria-hidden="true"></i>';
   else if ( kind == "twitter" ) return '<i class="fa fa-twitter" aria-hidden="true"></i>';
@@ -74,6 +81,7 @@ function IndieDevSpace() {
   toollist=document.getElementById("toollist"),
              toollist_html="";
 
+Durstenfeld(indiedevs);
 indiedevs.forEach((e)=> {
   if ( e.kind == "company" ) {
               myCarouselInner_html += CarouselSetup(e);
