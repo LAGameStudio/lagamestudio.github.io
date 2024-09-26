@@ -88,7 +88,7 @@ indiedevs.forEach((e)=> {
  gamelist.innerHTML=gamelist_html;
  toollist.innerHTML=toollist_html;
  myCarouselIndicators.innerHTML=myCarouselIndicators_html;
- myCarouselInner.innerHtml=myCarouselInner_html;
-  console.log(myCarouselInner);
+ myCarouselInner.innerHTML=myCarouselInner_html;
+//  console.log(myCarouselInner);
   
 }
