@@ -43,7 +43,7 @@ function CarouselSetup( e ) {
   }
   return done+
     '<div class="container"><div class="carousel-caption "><div class="row"><div class="col-md-12 margin_boot"><div class="test_box">'
-    +'<i><a href="'+e.linkback+'" target="_blank"><img src="'+e.image+'" alt="#"/></a></i>'
+    +'<i><a href="'+e.linkback+'" target="_blank"><img class="caroimage" src="'+e.image+'" alt="#"/></a></i>'
     +'<span>'+e.channel+'</span>'
     +'<h4>'+e.title+'</h4>'
     +'<p>'+e.paragraph+'</p>'
