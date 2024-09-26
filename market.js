@@ -88,4 +88,6 @@ indiedevs.forEach((e)=> {
  toollist.innerHTML=toollist_html;
  myCarouselIndicators.innerHTML=myCarouselIndicators_html;
  myCarouselInner.innerHtml=myCarouselInner_html;
+  console.log(myCarouselInner);
+  
 }
