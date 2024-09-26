@@ -979,4 +979,11 @@ ul.social_icon li a:hover {
 }
 
 
+.caroimage {
+     min-width: 400px;
+    max-width: 400px;
+    max-height: 400px;
+    height: auto;
+}
+
 /** end footer **/
