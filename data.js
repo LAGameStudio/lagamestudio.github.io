@@ -94,7 +94,8 @@ let indiedevs = [
      { kind: "github", url: "https://github.com/LAGameStudio" },
      { kind: "twitter", url: "x.com/LAGameStudio" },
      { kind: "twitch", url: "https://www.twitch.tv/lostastronautstudios" },
-     { kind: "youtube", url: "https://www.youtube.com/@LAGameStudio/playlists" }
+     { kind: "youtube", url: "https://www.youtube.com/@LAGameStudio/playlists" },
+     { kind: "itch", url: "https://lost.itch.io/" }
    ],
    paragraph: "Lost Astronaut Studios is a Pittsburgh-based independent game company founded by a Carnegie Mellon alum in 2006, and continues producing retro-inspired science fiction games.  Support local and independent software producers like Lost Astronaut by purchasing Apolune 2 on Steam. Join our Discord to interact more closely with us and our community. Lost Astronaut Studios produces open source software to help the junior and independent game developer community."
  }
