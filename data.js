@@ -3,7 +3,54 @@ let indiedevs = [
 
   /* Try using the template found in the Readme here: https://github.com/LAGameStudio/lagamestudio.github.io/ */
 
+  {
+    kind: "company",
+    title: "Gumbo Machine",
+    image: "images/Gumbo-Machine-Benjamin-Kapferer.png",
+    date: "9-30-2024",
+    location: "Northeast Ohio, USA",
+    channel: "#gumbo-machine",
+    linkback: "https://www.gumbo-machine.com/",
+    links: [
+      { kind: "instagram", url: "https://www.instagram.com/gumbo_machine/" },
+      { kind: "youtube", url: "https://www.youtube.com/@GumboMachine" },
+      { kind: "steam", url: "https://store.steampowered.com/search/?publisher=Gumbo%20Machine%2C%20LLC&snr=1_5_9__422" },
+      { kind: "itch", url: "https://gumbomachine.itch.io" },
+      { kind: "twitter", url: "https://www.twitter.com/Gumbo_Machine" }
+    ],
+    paragraph: "We’re stirring up some excitement! Gumbo Machine is an independent software firm based in Northeast Ohio, cooperating with developers and artists from around the world. We believe in pin-pointing the desires of various markets, and providing them a quality product along the way. (That's code for, \"We like making fun games!\") Check out our titles on PS5, PS4, Xbox, Switch, Windows, Linux, and Atari VCS. (And don't forget the PS Vita!)"
+  },
 
+  {
+    kind: "game",
+    title: "Battle Rockets",
+    image: "images/Gumbo-Machine-Battle-Rockets.png",
+    date: "9-30-2024",
+    location: "Northeast Ohio, USA",
+    channel: "#gumbo-machine",
+    linkback: "https://gumbomachine.itch.io/battle-rockets",
+    links: [
+      { kind: "steam", url: "https://store.steampowered.com/app/2499330/Battle_Rockets/" },
+      { kind: "itch", url: "https://gumbomachine.itch.io/battle-rockets" }
+    ],
+    paragraph: "What happens when two genres become one? Battle Rockets, that's what happens! In this distinctive SHMUP Fighter, each player chooses a side–literally! Play as one of twelve Console-tan fighters, and battle your friends...or foes! Face off in one of three multiplayer modes, or try your hand at one of eight single-player Challenges. Challenges expand upon the Console-tan lore, and allow players to hone their skills. Ready for something tougher? Super Challenges ramp up the difficulty of our original eight Challenges. Are you Head-to-Heady?"
+  },
+
+  {
+    kind: "tool",
+    title: "Ultra Mission",
+    image: "images/Gumbo-Machine-Ultra-Mission.png",
+    date: "9-30-2024",
+    location: "Northeast Ohio, USA",
+    channel: "#gumbo-machine",
+    linkback: "https://gumbomachine.itch.io/ultra-mission",
+    links: [
+      { kind: "steam", url: "https://store.steampowered.com/app/1940350/Ultra_Mission/" },
+      { kind: "itch", url: "https://gumbomachine.itch.io/ultra-mission" }
+    ],
+    paragraph: "DATE: January 12, 2081.<BR> LOCATION: Otto Labs headquarters.<BR> OBJECTIVE: Find out what the heck is going on!<BR> Embark on a dangerous investigation in Ultra Mission, an action-packed, arcade-inspired shooter from Gumbo Machine. As an agent of the Stellar Exchange Commission, you must traverse the labyrinthine maze that is Otto Labs. Each of Ultra Mission's 20 levels is littered with powerful automatons and questionable experiments. One thing is certain: this is going to be a blast!"
+  },
+  
  { 
    kind: "game",
    title: "SkyFrizz",
