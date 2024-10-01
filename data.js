@@ -93,7 +93,7 @@ let indiedevs = [
      { kind: "youtube", url: "https://www.youtube.com/c/ObsidianContraption" },
      { kind: "link", url: "https://distrokid.com/hyperfollow/obsidiancontraption/the-great-work" }
    ],
-   paragraph: "Liminalist Contraptions is my game studio, creator of Sky Frizz. I am a musician, game developer &amp; OST director. Obsidian Contraption is my main music project. An experimental electronic group spanning genres, from industrial, hip hop to darkwave &amp; chiptune."
+   paragraph: "Liminalist Contraptions is my game studio, creator of Sky Frizz. I am a musician, game developer &amp; OST director.<BR> Obsidian Contraption is my main music project. An experimental electronic group spanning genres, from industrial, hip hop to darkwave &amp; chiptune."
  },
   
  { 
