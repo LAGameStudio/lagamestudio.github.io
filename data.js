@@ -37,7 +37,7 @@ let indiedevs = [
   },
 
   {
-    kind: "tool",
+    kind: "game",
     title: "Ultra Mission",
     image: "images/Gumbo-Machine-Ultra-Mission.png",
     date: "9-30-2024",
