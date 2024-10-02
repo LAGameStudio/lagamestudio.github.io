@@ -22,7 +22,7 @@ Generally entries in ``data.js`` are to games or to game developers.
 
 Your pull request will be merged if:
 * You are an indie game developer or you make game development tools or open source
-* You have at least 1 title published on at least one platform.  Qualifying platforms are:  GoG, Steam, Itch, Switch, Atari VCS Store, and perhaps others.
+* You have at least 1 title published on at least one platform and are not solely a mobile game company.  While we do allow mobile games on the site, it's a case-by-case basis.  More readily qualifying platforms are:  GoG, Steam, Itch, Switch, Atari VCS Store, and perhaps others.
 * Your pull request fits within the guidelines for decency and appropriateness.  Basically, it's a game or press or game company linkback, and it does not contain obscene words.  The link is validated manually, and your descriptive content matches our content style.
 * You are already a member of our Discord and have a Discord Featured Channel dedicated to you.  See the Discord for how to obtain this. Your submission must  include your featured Discord channel as a tag, so your posts can be grouped.
 * Your entry is not determined to be redundant.  You may post once and one time only for your company, and once and one time only for each game.  If you have too many games listed, a new game listing should replace an older game listing.  You may link to a franchise or series of games as a game listing.
