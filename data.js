@@ -16,7 +16,7 @@ let indiedevs = [
       { kind: "twitter", url: "https://x.com/pixelgames" },
       { kind: "youtube", url: "https://www.youtube.com/@pixelgamesSARLS" }
     ],
-    paragraph: "pixel games SARL-S is an independent game studio based in Luxembourg, owned and operated by solo developer Sebastian Kostka. My primary focus is to create classic arcade experiences for modern systems."
+    paragraph: "pixel games SARL-S is an independent game studio based in Luxembourg, owned and operated by solo developer Sebastian Kostka. My primary focus is to create classic arcade experiences for modern systems.  Founded in 2020, Sebastian wrote his first game in 1982 on his grandmother's TV, with a Sinclair Spectrum 48K.  pixel games SARL-S has games out for Steam, Sony PS4, Atari VCS, Microsoft XBox One, Nintendo Switch, iiRCade, Evercade, exA-Arcadia and GOG."
   },
 
    {
