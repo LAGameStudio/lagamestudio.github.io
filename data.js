@@ -5,6 +5,86 @@ let indiedevs = [
 
  {
     kind: "company",
+    title: "pixel games SARL-S",
+    image: "images/pixel-games.png",
+    date: "10-3-2024",
+    location: "Luxembourg",
+    channel: "#pixel-games",
+    linkback: "https://pixel.games/",
+    links: [
+      { kind: "discord", url: "https://discord.gg/Wpp7Yyn8JV" },
+      { kind: "twitter", url: "https://x.com/pixelgames" },
+      { kind: "youtube", url: "https://www.youtube.com/@pixelgamesSARLS" }
+    ],
+    paragraph: "pixel games SARL-S is an independent game studio based in Luxembourg, owned and operated by solo developer Sebastian Kostka. My primary focus is to create classic arcade experiences for modern systems."
+  },
+
+   {
+    kind: "game",
+    title: "Sir Lovelot",
+    image: "images/sir-lovelot.png",
+    date: "10-3-2024",
+    location: "Luxembourg",
+    channel: "#pixel-games",
+    linkback: "https://pixel.games/sirlovelot/index.html",
+    links: [
+      { kind: "discord", url: "https://discord.gg/Wpp7Yyn8JV" },
+      { kind: "twitter", url: "https://x.com/pixelgames" },
+      { kind: "youtube", url: "https://www.youtube.com/@pixelgamesSARLS" }
+    ],
+    paragraph: "Sir Lovelot is on a quest to find the love of his life, and only you can help him avoid the cold sting of loneliness (but let’s be real: solitude is great!). Join him in a wacky precision platformer in which he’ll realize that finding love isn’t as easy as he thinks! Collects gifts, avoid treacherous hazards and fight off weird creatures, all in the best possible time! It's an absolutely heartbreaking hairy-tale, if ever there was one..."
+  },
+
+   {
+    kind: "game",
+    title: "Donut Dodo",
+    image: "images/Donut-Dodo.png",
+    date: "10-3-2024",
+    location: "Luxembourg",
+    channel: "#pixel-games",
+    linkback: "https://pixel.games/donutdodo/index.html",
+    links: [
+      { kind: "discord", url: "https://discord.gg/Wpp7Yyn8JV" },
+      { kind: "twitter", url: "https://x.com/pixelgames" },
+      { kind: "youtube", url: "https://www.youtube.com/@pixelgamesSARLS" }
+    ],
+    paragraph: "Tough as nails and no continues, do you have what it takes? Donut Dodo is a light-hearted arcade game, reminiscent of the beloved classics from the early 80's that we still cherish to this very day. You play as Baker Billy Burns, who has to run, jump, and climb to outwit Donut Dodo and his bunch of clueless minions. Your goal is to collect all donuts in each level, in the best possible time! Will you top the high score table today? Come and join the fun!"
+  },    
+
+   {
+    kind: "game",
+    title: "Sigi - A Fart for Melusina",
+    image: "images/Sigi.jpg",
+    date: "10-3-2024",
+    location: "Luxembourg",
+    channel: "#pixel-games",
+    linkback: "https://pixel.games/sigi/index.html",
+    links: [
+      { kind: "discord", url: "https://discord.gg/Wpp7Yyn8JV" },
+      { kind: "twitter", url: "https://x.com/pixelgames" },
+      { kind: "youtube", url: "https://www.youtube.com/@pixelgamesSARLS" }
+    ],
+    paragraph: "The retro-classic style platformer follows a whimsical Knight’s quest to locate Melusina, mermaid and love interest, that the former happens to scare away by a bout of bad gas. With 8-bit graphics and a fitting chiptune score by Saskrotch, players can expect none of the features à la XP, backtracking and grinding that characterizes most modern ‘retro’ games. Tight gameplay and wonderful visuals make Sigi a light-hearted and loving 8-bit adventure to enjoy."
+  },  
+
+   {
+    kind: "game",
+    title: "Cash Cow DX",
+    image: "images/pixel-games-cash-cow.png",
+    date: "10-3-2024",
+    location: "Luxembourg",
+    channel: "#pixel-games",
+    linkback: "https://pixel.games/cashcow/index.html",
+    links: [
+      { kind: "discord", url: "https://discord.gg/Wpp7Yyn8JV" },
+      { kind: "twitter", url: "https://x.com/pixelgames" },
+      { kind: "youtube", url: "https://www.youtube.com/@pixelgamesSARLS" }
+    ],
+    paragraph: "Get ready for a blast from the past with Cash Cow DX, an 80s inspired arcade experience releasing 40 years late. Run, jump and slide in this udderly jolly adventure to save your fortunes from the greedy Pig Pockets! Tough as nails and no continues: are you ready?"
+  },  
+  
+ {
+    kind: "company",
     title: "Cuirass Entertainment Ltd.",
     image: "images/Cuirass-Entertainment-Ltd.png",
     date: "10-2-2024",
