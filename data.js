@@ -14,9 +14,10 @@ let indiedevs = [
     links: [
       { kind: "discord", url: "https://discord.gg/Wpp7Yyn8JV" },
       { kind: "twitter", url: "https://x.com/pixelgames" },
-      { kind: "youtube", url: "https://www.youtube.com/@pixelgamesSARLS" }
+      { kind: "youtube", url: "https://www.youtube.com/@pixelgamesSARLS" },
+      { kind: "itch", url: "https://zapposh.itch.io/" }
     ],
-    paragraph: "pixel games SARL-S is an independent game studio based in Luxembourg, owned and operated by solo developer Sebastian Kostka. My primary focus is to create classic arcade experiences for modern systems.  Founded in 2020, Sebastian wrote his first game in 1982 on his grandmother's TV, with a Sinclair Spectrum 48K.  pixel games SARL-S has games out for Steam, Sony PS4, Atari VCS, Microsoft XBox One, Nintendo Switch, iiRCade, Evercade, exA-Arcadia and GOG."
+    paragraph: "pixel games SARL-S is an independent game studio based in Luxembourg, owned and operated by solo developer Sebastian Kostka. My primary focus is to create classic arcade experiences for modern systems.  Founded in 2020, Sebastian wrote his first game in 1982 on his grandmother's TV, with a Sinclair Spectrum 48K.  pixel games SARL-S has games out for Steam, Sony PS4, Atari VCS, Microsoft XBox One, Nintendo Switch, iiRCade, Evercade, exA-Arcadia, Itch.io and GOG."
   },
 
    {
@@ -46,7 +47,8 @@ let indiedevs = [
     links: [
       { kind: "discord", url: "https://discord.gg/Wpp7Yyn8JV" },
       { kind: "twitter", url: "https://x.com/pixelgames" },
-      { kind: "youtube", url: "https://www.youtube.com/@pixelgamesSARLS" }
+      { kind: "youtube", url: "https://www.youtube.com/@pixelgamesSARLS" },
+      { kind: "itch", url: "https://zapposh.itch.io/" }
     ],
     paragraph: "Tough as nails and no continues, do you have what it takes? Donut Dodo is a light-hearted arcade game, reminiscent of the beloved classics from the early 80's that we still cherish to this very day. You play as Baker Billy Burns, who has to run, jump, and climb to outwit Donut Dodo and his bunch of clueless minions. Your goal is to collect all donuts in each level, in the best possible time! Will you top the high score table today? Come and join the fun!"
   },    
@@ -78,7 +80,8 @@ let indiedevs = [
     links: [
       { kind: "discord", url: "https://discord.gg/Wpp7Yyn8JV" },
       { kind: "twitter", url: "https://x.com/pixelgames" },
-      { kind: "youtube", url: "https://www.youtube.com/@pixelgamesSARLS" }
+      { kind: "youtube", url: "https://www.youtube.com/@pixelgamesSARLS" },
+      { kind: "itch", url: "https://zapposh.itch.io/" }
     ],
     paragraph: "Get ready for a blast from the past with Cash Cow DX, an 80s inspired arcade experience releasing 40 years late. Run, jump and slide in this udderly jolly adventure to save your fortunes from the greedy Pig Pockets! Tough as nails and no continues: are you ready?"
   },  
