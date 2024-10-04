@@ -22,7 +22,7 @@ let indiedevs = [
    {
     kind: "game",
     title: "Sir Lovelot",
-    image: "images/sir-lovelot.png",
+    image: "images/Sir-Lovelot.png",
     date: "10-3-2024",
     location: "Luxembourg",
     channel: "#pixel-games",
