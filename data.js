@@ -15,7 +15,8 @@ let indiedevs = [
     linkback: "https://www.youtube.com/@krazproductions",
     links: [
       { kind: "youtube", url: "https://www.youtube.com/@krazproductions" },
-      { kind: "instagram", url: "https://www.instagram.com/krazproductions/" }
+      { kind: "instagram", url: "https://www.instagram.com/krazproductions/" },
+      { kind: "itch", url: "https://kraz-productions.itch.io/cyber-run" }      
     ],
     paragraph: "K.R.A.Z. Productions LLC, the brainchild of Kazdan R. Azahn, formed as a multimedia company who focuses on creative mediums such as video game design, graphic design, videography and more. To date, KRAZ has produce one title for the PlayDate Handheld with more in the pipeline. KRAZ also has an active YouTube channel where he hosts interviews, commentary and podcasts on and about games and game design as well as pop culture and fan films he's made. K.R.A.Z. Productions is a company that currently expresses itself through various art forms such as videography and low budget cinematography."
   },
