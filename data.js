@@ -3,6 +3,65 @@ let indiedevs = [
 
   /* Try using the template found in the Readme here: https://github.com/LAGameStudio/lagamestudio.github.io/ */
 
+
+ {
+    kind: "company",
+    title: "KRAZ Productions",
+    image: "images/KRAZ.jpg",
+    date: "10-3-2024",
+    location: "United States",
+    channel: "#kraz-productions",
+    channelurl: "https://discord.com/channels/1197291606198456340/1295197951387373569",
+    linkback: "https://www.youtube.com/@krazproductions",
+    links: [
+    ],
+    paragraph: "K.R.A.Z. Productions LLC, is a multimedia company who focuses on creative mediums such as video game design, graphic design, videography and more."
+  },
+
+ {
+    kind: "game",
+    title: "Cyber Run",
+    image: "images/Cyberrun-KRAZ-Productions.png",
+    date: "10-3-2024",
+    location: "United States",
+    channel: "#kraz-productions",
+    channelurl: "https://discord.com/channels/1197291606198456340/1295197951387373569",
+    linkback: "https://kraz-productions.itch.io/cyber-run",
+    links: [
+    ],
+    paragraph: "Cyber Run is a prequel to \"Ghost on the Run\" for Atari VCS, and was released exclusively for the Playdate Handheld console by Panic!"
+  },
+  
+ {
+    kind: "company",
+    title: "JD Video Game Productions",
+    image: "images/JD-Video-Game-Productions-Logo.png",
+    date: "10-13-2024",
+    location: "Canada",
+    channel: "#jd-videogames",
+    channelurl: "https://discord.com/channels/1197291606198456340/1295441840098508952",
+    linkback: "https://jdvideogameproductions.ca/",
+    links: [
+      { kind: "youtube", url: "https://jdvideogameproductions.ca/youtube/" },
+    ],
+    paragraph: "Our mission is to create fun, retro-inspired, psychedelic video games. So far we have released Super Star Shooter 16 on Steam, Microsoft Store and Atari VCS. We are planning to release Super 3D Maze 16 on Steam, Microsoft Store and Atari VCS as well. We are planning to bring games to the iiRCade for side loading in the near future as well."
+  },
+
+ {
+    kind: "game",
+    title: "Super Star Shooter 16",
+    image: "images/SSS16HomepageArt.png",
+    date: "10-13-2024",
+    location: "Canada",
+    channel: "#jd-videogames",
+    channelurl: "https://discord.com/channels/1197291606198456340/1295441840098508952",
+    linkback: "https://jdvideogameproductions.ca/",
+    links: [
+      { kind: "steam", url: "https://store.steampowered.com/app/1454360/Super_Star_Shooter_16/" },
+    ],
+    paragraph: "Super Star Shooter 16 is a psychedelic retro inspired on-rails shooter. It takes its cues from early arcade and 3d games. This means that player follows along a fixed course and is responsible for dodging obstacles and eliminating enemy targets. This results in a much more accessible game. SSS16 achieves a unique graphics style by combining an extremely limited color palette with Unity's powerful 3d graphics engine. This game was inspired by MS-DOS gaming as well as the the 16 and 32-bit console eras. The enemies and scenery in Super Star Shooter 16 all move to the beat of the music. This often creates a sensation of calm focus or feeling \"in the zone\" during gameplay. Super Star Shooter 16 is intended for casual gamers. This game is intended to be very easy to get into, but difficult to master. The control scheme is very simple and does not take long to learn (or relearn). Discover a strange reality while flying through psychedelic simulation. Super Star Shooter 16 is the first game released by JD Video Game Productions. Its available on Steam, Xbox and Atari VCS."
+  },  
+  
  {
     kind: "company",
     title: "pixel games SARL-S",
