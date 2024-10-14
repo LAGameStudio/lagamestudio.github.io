@@ -50,6 +50,7 @@ The required skill is that you should understand how to create JSON by following
    date: "9-24-2024",
    location: "United States",
    channel: "#lost-astronaut",
+   channelurl: "If you dont have one of these yet, set it to a pound sign / hash tag #",
    linkback: "https://lostastronaut.com", 
    links: [
      { kind: "discord", url: "https://discord.gg/9vkNPJr" },
