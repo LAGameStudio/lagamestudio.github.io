@@ -10,6 +10,7 @@ let indiedevs = [
     date: "10-3-2024",
     location: "Luxembourg",
     channel: "#pixel-games",
+    channelurl: "https://discord.com/channels/1197291606198456340/1197897566726148168",
     linkback: "https://pixel.games/",
     links: [
       { kind: "discord", url: "https://discord.gg/Wpp7Yyn8JV" },
@@ -27,6 +28,7 @@ let indiedevs = [
     date: "10-3-2024",
     location: "Luxembourg",
     channel: "#pixel-games",
+    channelurl: "https://discord.com/channels/1197291606198456340/1197897566726148168",
     linkback: "https://pixel.games/sirlovelot/index.html",
     links: [
       { kind: "discord", url: "https://discord.gg/Wpp7Yyn8JV" },
@@ -43,6 +45,7 @@ let indiedevs = [
     date: "10-3-2024",
     location: "Luxembourg",
     channel: "#pixel-games",
+    channelurl: "https://discord.com/channels/1197291606198456340/1197897566726148168",
     linkback: "https://pixel.games/donutdodo/index.html",
     links: [
       { kind: "discord", url: "https://discord.gg/Wpp7Yyn8JV" },
@@ -60,6 +63,7 @@ let indiedevs = [
     date: "10-3-2024",
     location: "Luxembourg",
     channel: "#pixel-games",
+    channelurl: "https://discord.com/channels/1197291606198456340/1197897566726148168",
     linkback: "https://pixel.games/sigi/index.html",
     links: [
       { kind: "discord", url: "https://discord.gg/Wpp7Yyn8JV" },
@@ -76,6 +80,7 @@ let indiedevs = [
     date: "10-3-2024",
     location: "Luxembourg",
     channel: "#pixel-games",
+    channelurl: "https://discord.com/channels/1197291606198456340/1197897566726148168",
     linkback: "https://pixel.games/cashcow/index.html",
     links: [
       { kind: "discord", url: "https://discord.gg/Wpp7Yyn8JV" },
@@ -93,6 +98,7 @@ let indiedevs = [
     date: "10-2-2024",
     location: "Nova Scotia",
     channel: "#cuirass-entertainment",
+    channelurl: "https://discord.com/channels/1197291606198456340/1291098953068183663",
     linkback: "https://cuirass.net/",
     links: [
       { kind: "discord", url: "https://discord.gg/jmkMsevDqA" }
@@ -107,6 +113,7 @@ let indiedevs = [
     date: "10-2-2024",
     location: "Nova Scotia",
     channel: "#cuirass-entertainment",
+    channelurl: "https://discord.com/channels/1197291606198456340/1291098953068183663",
     linkback: "https://endsreach.com/",
     links: [
       { kind: "steam", url: "https://store.steampowered.com/app/2499330/Battle_Rockets/" },
@@ -122,6 +129,7 @@ let indiedevs = [
     date: "10-2-2024",
     location: "Nova Scotia",
     channel: "#cuirass-entertainment",
+    channelurl: "https://discord.com/channels/1197291606198456340/1291098953068183663",
     linkback: "https://store.steampowered.com/app/614250/Carrier/",
     links: [
       { kind: "steam", url: "https://store.steampowered.com/app/614250/Carrier/" },
@@ -136,6 +144,7 @@ let indiedevs = [
     date: "9-30-2024",
     location: "Northeast Ohio, USA",
     channel: "#gumbo-machine",
+    channelurl: "https://discord.com/channels/1197291606198456340/1198086210422329384",
     linkback: "https://www.gumbo-machine.com/",
     links: [
       { kind: "instagram", url: "https://www.instagram.com/gumbo_machine/" },
@@ -154,6 +163,7 @@ let indiedevs = [
     date: "9-30-2024",
     location: "Northeast Ohio, USA",
     channel: "#gumbo-machine",
+    channelurl: "https://discord.com/channels/1197291606198456340/1198086210422329384",
     linkback: "https://gumbomachine.itch.io/battle-rockets",
     links: [
       { kind: "steam", url: "https://store.steampowered.com/app/2499330/Battle_Rockets/" },
@@ -169,6 +179,7 @@ let indiedevs = [
     date: "9-30-2024",
     location: "Northeast Ohio, USA",
     channel: "#gumbo-machine",
+    channelurl: "https://discord.com/channels/1197291606198456340/1198086210422329384",
     linkback: "https://gumbomachine.itch.io/ultra-mission",
     links: [
       { kind: "steam", url: "https://store.steampowered.com/app/1940350/Ultra_Mission/" },
@@ -184,6 +195,7 @@ let indiedevs = [
    date: "9-25-2024",
    location: "United States",
    channel: "#liminalist-contraptions",
+   channelurl: "https://discord.com/channels/1197291606198456340/1199263903541100604",   
    linkback: "https://liminalist-contraptions.itch.io/sky-frizz", 
    links: [
      { kind: "itch", url: "https://liminalist-contraptions.itch.io/sky-frizz" }
@@ -198,6 +210,7 @@ let indiedevs = [
    date: "9-25-2024",
    location: "United States",
    channel: "#liminalist-contraptions",
+   channelurl: "https://discord.com/channels/1197291606198456340/1199263903541100604",   
    linkback: "https://liminalist-contraptions.itch.io/maze-lab", 
    links: [
      { kind: "itch", url: "https://liminalist-contraptions.itch.io/maze-lab" }
@@ -212,6 +225,7 @@ let indiedevs = [
    date: "9-25-2024",
    location: "Massachusetts, United States",
    channel: "#liminalist-contraptions",
+   channelurl: "https://discord.com/channels/1197291606198456340/1199263903541100604",   
    linkback: "https://distrokid.com/hyperfollow/obsidiancontraption/the-great-work", 
    links: [
      { kind: "itch", url: "https://liminalist-contraptions.itch.io/" },
@@ -229,6 +243,7 @@ let indiedevs = [
    date: "9-25-2024",
    location: "United States",
    channel: "#lost-astronaut",
+   channelurl: "https://discord.com/channels/1197291606198456340/1288672076512890880",
    linkback: "https://github.com/LAGameStudio/InputCandy", 
    links: [
      { kind: "github", url: "https://github.com/LAGameStudio/InputCandy" },
@@ -244,7 +259,8 @@ let indiedevs = [
    date: "9-24-2024",
    location: "United States",
    channel: "#lost-astronaut",
-   linkback: "https://lostastronaut.com/apolune2", 
+   channelurl: "https://discord.com/channels/1197291606198456340/1288672076512890880",
+   linkback: "https://lostastronaut.com/apolune2",
    links: [
      { kind: "steam", url: "https://store.steampowered.com/app/1549140/Apolune_2/" },
      { kind: "discord", url: "https://discord.gg/9vkNPJr" },
@@ -259,6 +275,7 @@ let indiedevs = [
    date: "9-24-2024",
    location: "United States",
    channel: "#lost-astronaut",
+   channelurl: "https://discord.com/channels/1197291606198456340/1288672076512890880",
    linkback: "https://lostastronaut.com", 
    links: [
      { kind: "discord", url: "https://discord.gg/9vkNPJr" },
