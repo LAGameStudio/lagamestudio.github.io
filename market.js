@@ -33,7 +33,7 @@ function LeftImage( e ) {
               +'</div>'
               +'<div class="col-md-6"><div class="titlepage">'
               +'<h2><span class="blu"></span><a target="_blank" href="'+e.linkback+'">'+e.title+'</a></h2><h4>'
-              +'<a href="'+e.channelurl+'">'+e.channel +'</a>'
+              +'<a target="_blank" href="'+e.channelurl+'">'+e.channel +'</a>'
                   + ' on '+e.date + ' from '+ e.location + '</h4>'
               +'<p>'+e.paragraph+'</p>'
               +'<a class="read_more" target="_blank" href="'+e.linkback+'">Go &rarr;</a>'
@@ -53,7 +53,7 @@ function CarouselSetup( e ) {
   return done+
     '<div class="container"><div class="carousel-caption "><div class="row"><div class="col-md-12 margin_boot"><div class="test_box">'
     +'<i><a href="'+e.linkback+'" target="_blank"><img class="caroimage" src="'+e.image+'" alt="#"/></a></i>'
-    +'<span>'+'<a href="'+e.channelurl+'" style="color:#0F9">'+e.channel +'</a>'+'</span>'
+    +'<span>'+'<a target="_blank" href="'+e.channelurl+'" style="color:#0F9">'+e.channel +'</a>'+'</span>'
     +'<h4>'+e.title+'</h4>'
     +'<p>'+e.paragraph+'</p>'
     +'<div class="col-sm-col-xl-6 col-lg-6 col-md-6 col-sm-12"><ul class="social_icon">'
