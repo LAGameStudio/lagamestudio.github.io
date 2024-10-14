@@ -9,13 +9,15 @@ let indiedevs = [
     title: "KRAZ Productions",
     image: "images/KRAZ.jpg",
     date: "10-3-2024",
-    location: "United States",
+    location: "North Carolina, United States",
     channel: "#kraz-productions",
     channelurl: "https://discord.com/channels/1197291606198456340/1295197951387373569",
     linkback: "https://www.youtube.com/@krazproductions",
     links: [
+      { kind: "youtube", url: "https://www.youtube.com/@krazproductions" },
+      { kind: "instagram", url: "https://www.instagram.com/krazproductions/" }
     ],
-    paragraph: "K.R.A.Z. Productions LLC, is a multimedia company who focuses on creative mediums such as video game design, graphic design, videography and more."
+    paragraph: "K.R.A.Z. Productions LLC, the brainchild of Kazdan R. Azahn, formed as a multimedia company who focuses on creative mediums such as video game design, graphic design, videography and more. To date, KRAZ has produce one title for the PlayDate Handheld with more in the pipeline. KRAZ also has an active YouTube channel where he hosts interviews, commentary and podcasts on and about games and game design as well as pop culture and fan films he's made. K.R.A.Z. Productions is a company that currently expresses itself through various art forms such as videography and low budget cinematography."
   },
 
  {
@@ -23,11 +25,13 @@ let indiedevs = [
     title: "Cyber Run",
     image: "images/Cyberrun-KRAZ-Productions.png",
     date: "10-3-2024",
-    location: "United States",
+    location: "North Carolina, United States",
     channel: "#kraz-productions",
     channelurl: "https://discord.com/channels/1197291606198456340/1295197951387373569",
     linkback: "https://kraz-productions.itch.io/cyber-run",
     links: [
+      { kind: "itch", url: "https://kraz-productions.itch.io/cyber-run" },
+      { kind: "youtube", url: "https://www.youtube.com/@krazproductions" }      
     ],
     paragraph: "Cyber Run is a prequel to \"Ghost on the Run\" for Atari VCS, and was released exclusively for the Playdate Handheld console by Panic!"
   },
@@ -50,7 +54,7 @@ let indiedevs = [
  {
     kind: "game",
     title: "Super Star Shooter 16",
-    image: "images/SSS16HomepageArt.png",
+    image: "images/SSS16HomepageArt-1.png",
     date: "10-13-2024",
     location: "Canada",
     channel: "#jd-videogames",
@@ -59,7 +63,7 @@ let indiedevs = [
     links: [
       { kind: "steam", url: "https://store.steampowered.com/app/1454360/Super_Star_Shooter_16/" },
     ],
-    paragraph: "Super Star Shooter 16 is a psychedelic retro inspired on-rails shooter. It takes its cues from early arcade and 3d games. This means that player follows along a fixed course and is responsible for dodging obstacles and eliminating enemy targets. This results in a much more accessible game. SSS16 achieves a unique graphics style by combining an extremely limited color palette with Unity's powerful 3d graphics engine. This game was inspired by MS-DOS gaming as well as the the 16 and 32-bit console eras. The enemies and scenery in Super Star Shooter 16 all move to the beat of the music. This often creates a sensation of calm focus or feeling \"in the zone\" during gameplay. Super Star Shooter 16 is intended for casual gamers. This game is intended to be very easy to get into, but difficult to master. The control scheme is very simple and does not take long to learn (or relearn). Discover a strange reality while flying through psychedelic simulation. Super Star Shooter 16 is the first game released by JD Video Game Productions. Its available on Steam, Xbox and Atari VCS."
+    paragraph: "Super Star Shooter 16 is a psychedelic retro inspired on-rails shooter. It takes its cues from early arcade and 3d games. This means that player follows along a fixed course and is responsible for dodging obstacles and eliminating enemy targets. SSS16 achieves a unique graphics style by combining an extremely limited color palette with Unity's powerful 3d graphics engine. This game was inspired by MS-DOS gaming as well as the the 16 and 32-bit console eras. The enemies and scenery in Super Star Shooter 16 all move to the beat of the music. This often creates a sensation of calm focus or feeling \"in the zone\" during gameplay. Super Star Shooter 16 is intended for casual gamers. This game is intended to be very easy to get into, but difficult to master. The control scheme is very simple and does not take long to learn (or relearn). Discover a strange reality while flying through psychedelic simulation. Super Star Shooter 16 is the first game released by JD Video Game Productions. Its available on Steam, Xbox and Atari VCS."
   },  
   
  {
