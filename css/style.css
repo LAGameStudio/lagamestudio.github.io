@@ -762,7 +762,7 @@ ul.btn li:last-child {
 }
 
 .review_Carousel .carousel-indicators {
-     bottom: -50px;
+     top: -50px;
 }
 
 .review_Carousel .carousel-indicators li {
