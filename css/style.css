@@ -727,6 +727,8 @@ ul.btn li:last-child {
 .test_box {
      padding: 40px 25px;
      background: #0808ff;
+
+ border-radius:16px;
 }
 
 .review_Carousel .test_box h4 {
