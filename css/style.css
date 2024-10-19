@@ -765,8 +765,10 @@ ul.btn li:last-child {
 
 .review_Carousel .carousel-indicators li {
      width: 45px;
-     height: 10px;
+     height: 45px;
      background: #052501;
+ border-radius: 22px;
+ border: 4px solid black;
 }
 
 .review_Carousel .carousel-indicators li.active {
