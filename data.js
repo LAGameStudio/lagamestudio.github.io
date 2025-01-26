@@ -29,7 +29,7 @@ let indiedevs = [
     location: "India",
     channel: "#an-indie-game-is-born",
     channelurl: "https://discordapp.com/channels/1197291606198456340/1333098516968640532",
-    linkback: "https://only4gamers.net/space-menace-press-kit/",
+    linkback: " https://store.steampowered.com/app/2000040/Space_Menace/",
     links: [
       { kind: "steam", url: "https://store.steampowered.com/app/2000040/Space_Menace/" },
       { kind: "android", url: "https://play.google.com/store/apps/details?id=com.Only4Gamers.SpaceMenace&pli=1" },
