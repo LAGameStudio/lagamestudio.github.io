@@ -17,6 +17,10 @@ function SocialCSS( kind ) {
   else if ( kind == "discord" ) return '<i class="fa-brands fa-discord" aria-hidden="true"></i>';
   else if ( kind == "youtube" ) return '<i class="fa-brands fa-youtube" aria-hidden="true"></i>';
   else if ( kind == "link" ) return '<i class="fa-solid fa-link" aria-hidden="true"></i>';
+  else if ( kind == "windows" ) return '<i class="fa fa-windows" aria-hidden="true"></i>';    
+  else if ( kind == "apple" ) return '<i class="fa fa-apple" aria-hidden="true"></i>';
+  else if ( kind == "mac" ) return '<i class="fa fa-computer" aria-hidden="true"></i>';    
+  else if ( kind == "android" ) return '<i class="fa fa-android" aria-hidden="true"></i>';
   return kind;
 }
 
