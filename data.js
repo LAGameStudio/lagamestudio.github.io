@@ -3,6 +3,41 @@ let indiedevs = [
 
   /* Try using the template found in the Readme here: https://github.com/LAGameStudio/lagamestudio.github.io/ */
 
+  {
+    kind: "company",
+    title: "Only4Gamers",
+    image: "images/Only4Gamers.png",
+    date: "9-30-2024",
+    location: "India",
+    channel: "#an-indie-game-is-born",
+    channelurl: "https://discordapp.com/channels/1197291606198456340/1333098516968640532",
+    linkback: "https://only4gamers.net/",
+    links: [
+      { kind: "discord", url: "https://discord.gg/apZsj44yeA" },
+      { kind: "youtube", url: "https://youtube.com/@only4gamersdev" },
+      { kind: "steam", url: "https://store.steampowered.com/developer/Only4Gamers" },
+      { kind: "twitter", url: "https://www.twitter.com/only4gamers_xyz" }
+    ],
+    paragraph: "Solo Game Developer, Blogger and YouTuber. I’m a dedicated solo game developer committed to crafting top-notch gaming experiences. My journey in game development began only a few years ago, but my ambition for both my current and upcoming projects knows no bounds. My ultimate goal is to deliver games that captivate and delight players worldwide. Only4Gamerz as a tiny studio has three games, Space Menace (PC/Mac/Linux), Space Menace 2 (PC/Mac/Linux, Android) and Mini Racer XTreme (Android).  Founded in 2019 in India.  Only4Gamers has a love of space games and it shows in their loyalty to their franchise of Space Menace which first released in November 2022. Only4Gamers was a participant in the Indie Bandits 2022 Demo Disc."
+  },
+
+  {
+    kind: "game",
+    title: "Space Menace",
+    image: "images/Only4Gamers-SpaceMenace.png",
+    date: "11-11-2022",
+    location: "India",
+    channel: "#an-indie-game-is-born",
+    channelurl: "https://discordapp.com/channels/1197291606198456340/1333098516968640532",
+    linkback: "https://only4gamers.net/space-menace-press-kit/",
+    links: [
+      { kind: "steam", url: "https://store.steampowered.com/app/2000040/Space_Menace/" },
+      { kind: "android", url: "https://play.google.com/store/apps/details?id=com.Only4Gamers.SpaceMenace&pli=1" },
+      { kind: "mac", url: "https://apps.apple.com/us/app/space-menace/id6463160184" },
+      { kind: "apple", url: "https://apps.apple.com/us/app/space-menace/id6461121189" }
+    ],
+    paragraph: "Space Menace is an epic sci-fi space RTS and battle game that puts you in the captain’s chair, with the fate of the galaxy in your hands. Starting off small with just one ship, you’ll embark on an incredible journey that will see you rise to glory and fortune through a combination of cunning strategy, tactical prowess, and resource management. With multiple paths to progress, you can earn money through freelance missions or simply by taking on other ships and collecting valuable salvage. As you expand your fleet and equip it with weapons, utilities, and strike craft, you’ll face surprising elements and make critical decisions that will determine your survival in the hostile and unforgiving vacuum of space.  At the heart of Space Menace is a deep and immersive gameplay experience that combines top-down 2D battles, customization options for your fleet, and a rich sci-fi setting that is sure to keep you engaged for hours on end. As you earn the favor or scorn of powerful factions, you’ll need to carefully plan your attacks and defenses, leveraging friendly ships and space stations to your advantage."
+  },
 
  {
     kind: "company",
