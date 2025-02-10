@@ -64,12 +64,12 @@ let indiedevs = [
     location: "North Carolina, United States",
     channel: "#kraz-productions",
     channelurl: "https://discord.com/channels/1197291606198456340/1295197951387373569",
-    linkback: "https://kraz-productions.itch.io/cyber-run",
+    linkback: "https://play.date/games/cyber-run/",
     links: [
       { kind: "itch", url: "https://kraz-productions.itch.io/cyber-run" },
-      { kind: "youtube", url: "https://www.youtube.com/@krazproductions" }      
+      { kind: "youtube", url: "https://discord.com/channels/@me/1055182475304910890/1338445421839912982" }
     ],
-    paragraph: "Cyber Run is a prequel to \"Ghost on the Run\" for Atari VCS, and was released exclusively for the Playdate Handheld console by Panic!"
+    paragraph: "Cyber Run is a prequel to \"Ghost on the Run\" for Atari VCS, and was released exclusively for the Playdate Handheld console by Panic! Cyber Run was made exclusively for the Panic Playdate handheld and is a direct prequel to "Ghost on the Run" for the Atari VCS! Cyber Run features built-in leaderboards, and two ways to plays. Story Mode and Score Mode! Follow Uncle Victor as he tries to escape his digital maze!"
   },
   
  {
