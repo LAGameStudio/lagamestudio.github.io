@@ -12,7 +12,7 @@ let indiedevs = [
     channelurl: "https://discord.com/channels/1197291606198456340/1447040061341171853",
     linkback: "https://store.steampowered.com/app/2968950/Pillow_Pinky/",
     links: [
-      { kind: "itch", url: "https://kraz-productions.itch.io/cyber-run" },
+      { kind: "itch", url: "https://gxplay.itch.io/pillow-pinky" },
       { kind: "youtube", url: "https://youtu.be/Lra9gG_b_Ow?si=nQsnDphr5OCMm8Pi" }
     ],
     paragraph: "Pillow Pinky is a 2D collectathon inspired by classic N64 collectathons like DK64 and Banjo. You can fight enemies, collect coins and food to add to your collection. You can jump on platforms and throw rocks at enemies picking up food heals you. You collect coins to unlock more levels for you to play so make sure you pick them up."
