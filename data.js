@@ -3,6 +3,37 @@ let indiedevs = [
 
   /* Try using the template found in the Readme here: https://github.com/LAGameStudio/lagamestudio.github.io/ */
 
+ {
+    kind: "game",
+    title: "Pillow Pinky",
+    image: "images/GXPlay-Pillow-Pinky.png",
+    date: "12-07-2025",
+    channel: "#gxplay",
+    channelurl: "https://discord.com/channels/1197291606198456340/1447040061341171853",
+    linkback: "https://store.steampowered.com/app/2968950/Pillow_Pinky/",
+    links: [
+      { kind: "itch", url: "https://kraz-productions.itch.io/cyber-run" },
+      { kind: "youtube", url: "https://youtu.be/Lra9gG_b_Ow?si=nQsnDphr5OCMm8Pi" }
+    ],
+    paragraph: "Pillow Pinky is a 2D collectathon inspired by classic N64 collectathons like DK64 and Banjo. You can fight enemies, collect coins and food to add to your collection. You can jump on platforms and throw rocks at enemies picking up food heals you. You collect coins to unlock more levels for you to play so make sure you pick them up."
+  },
+  
+  {
+    kind: "company",
+    title: "GXPlay",
+    image: "images/GXPlay-Logo.png",
+    date: "12-07-2025",
+    location: "Canada",
+    channel: "#gxplay",
+    channelurl: "https://discord.com/channels/1197291606198456340/1447040061341171853",
+    linkback: "https://gxplay.itch.io/",
+    links: [
+      { kind: "itch", url: "https://gxplay.itch.io/" },
+      { kind: "steam", url: "https://store.steampowered.com/search/?developer=GXPlay" }
+    ],
+    paragraph: "GXPlay was started in fall of 2008 by Nicholas Vandy, who started making flash games and web-based games using PHP for free in high school. After playing with different game engines and exploring game development through making various prototypes. In 2020, GXPlay released its first Steam game, Tower Blitz, followed by Kuro Neko, Pillow Plinky, XOX Arena and GX Sudoku. Nicholas has decided to make games his full time passion and hopes you check out what he has made and continue to support him on the next project."
+  },
+
   {
     kind: "company",
     title: "Only4Gamers",
