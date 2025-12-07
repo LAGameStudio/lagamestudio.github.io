@@ -8,6 +8,7 @@ let indiedevs = [
     title: "Pillow Pinky",
     image: "images/GXPlay-Pillow-Pinky.png",
     date: "12-07-2025",
+    location: "Canada",
     channel: "#gxplay",
     channelurl: "https://discord.com/channels/1197291606198456340/1447040061341171853",
     linkback: "https://store.steampowered.com/app/2968950/Pillow_Pinky/",
