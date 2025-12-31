@@ -2,6 +2,23 @@
 let indiedevs = [
 
   /* Try using the template found in the Readme here: https://github.com/LAGameStudio/lagamestudio.github.io/ */
+   {
+    kind: "game",
+    title: "Hero Game",
+    image: "images/XBOX_HeroGameArt.png",
+    date: "10-31-2021",
+    location: "Texas",
+    channel: "#hero-game",
+    channelurl: "https://discord.com/channels/1197291606198456340/1197897566726148168",
+    linkback: "https://pixel.games/donutdodo/index.html",
+    links: [
+      { kind: "discord", url: "https://discord.gg/Wpp7Yyn8JV" },
+      { kind: "twitter", url: "https://x.com/pixelgames" },
+      { kind: "youtube", url: "https://www.youtube.com/@pixelgamesSARLS" },
+      { kind: "itch", url: "https://zapposh.itch.io/" }
+    ],
+    paragraph: "This is the greatest game for Heroes.<br>  <b>Hero Game</b> is an amazing experience that blends the genres of first and third person into the thirst person which is an innovative feature not a gimmick."
+  },    
 
  {
     kind: "game",
